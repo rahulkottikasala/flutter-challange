@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:get_x/modules/home/dummy/dummy_page.dart';
+import 'package:get_x/modules/dummy/dummy_page.dart';
 import 'package:get_x/modules/home/home.dart';
 import 'package:get_x/modules/profile/profile.dart';
 

@@ -46,7 +46,7 @@ class HomePage extends StatelessWidget {
                 //-------toName------
                 
               });
-                Get.toNamed('/profile_page');
+                Get.toNamed(Profile.routeName);
             },
             child: const Text("Click"),
           ),
