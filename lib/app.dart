@@ -12,6 +12,8 @@ class App extends StatelessWidget {
     return GetMaterialApp(
       initialRoute: HomePage.routeName,
       getPages: Routes.getPages,
+
+        
     );
   }
 }
